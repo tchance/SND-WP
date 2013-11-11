@@ -1,0 +1,1 @@
+[13-Aug-2013 10:53:22] PHP Fatal error:  Call to undefined function  get_header() in /home1/sndlouco/public_html/news/wp-content/themes/SND WP/index.php on line 1
